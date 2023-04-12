@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oiuyy207
-- 👀 I’m interested in Deeplearning / Statistics / Bigdata analysis
-- 🌱 I’m currently learning Deeplearning
+- 👀 I’m interested in Bigdata analysis / Statistics / Deeplearning
+- 🏢 I’m working at 데이타솔루션 in Korea 
 - 📫 How to reach me oiuyy207@gmail.com / oiuyy207@naver.com
 
 <!---
